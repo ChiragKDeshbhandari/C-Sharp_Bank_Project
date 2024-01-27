@@ -1,0 +1,7 @@
+D:\.NET pojects\C#_Bank_Project\C#_Bank_Project\bin\Debug\C#_Bank_Project.exe.config
+D:\.NET pojects\C#_Bank_Project\C#_Bank_Project\bin\Debug\C#_Bank_Project.exe
+D:\.NET pojects\C#_Bank_Project\C#_Bank_Project\bin\Debug\C#_Bank_Project.pdb
+D:\.NET pojects\C#_Bank_Project\C#_Bank_Project\obj\Debug\C#_Bank_Project.csproj.AssemblyReference.cache
+D:\.NET pojects\C#_Bank_Project\C#_Bank_Project\obj\Debug\C#_Bank_Project.csproj.CoreCompileInputs.cache
+D:\.NET pojects\C#_Bank_Project\C#_Bank_Project\obj\Debug\C#_Bank_Project.exe
+D:\.NET pojects\C#_Bank_Project\C#_Bank_Project\obj\Debug\C#_Bank_Project.pdb
